@@ -1,7 +1,6 @@
 # OOD-Principles
 
 1- Program to interface not Implementation.
-
 2- Don't Repeat Yourself. (DRY)
 3- Encapsule what varies.
 4- Dependend on Abstrations Not Concrete classes.
